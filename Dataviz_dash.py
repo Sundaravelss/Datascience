@@ -2,7 +2,7 @@
 """
 Created on Wed Jun 17 00:46:38 2020
 
-@author: Sundara vel selvaraj, Prabanchan Subramanian
+@author: Sundara vel selvaraj
 """
 
 import dash
