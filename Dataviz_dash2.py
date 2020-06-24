@@ -2,7 +2,7 @@
 """
 Created on Wed Jun 17 10:44:55 2020
 
-@author: Sundara vel, prabanchan
+@author: Sundara vel
 """
 
 # Import all the required libraries
